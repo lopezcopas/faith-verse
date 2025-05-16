@@ -199,15 +199,4 @@ button:focus-visible {
   }
 
   --animate-fade-in-scale: fade-in-scale 1s ease-in-out forwards;
-
-  @keyframes: hover-scale {
-    0% {
-      transform: scale(1);
-    }
-    100% {
-      transform: scale(1.05);
-    }
-  }
-
-  --animate-scale hover-scale 0.5s ease-in-out fowards;
 }
