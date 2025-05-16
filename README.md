@@ -8,6 +8,9 @@ Faith Verse is a portfolio project that leverages ChatGPT to generate inspiratio
 - Modern frontend built with React and TypeScript for type safety and scalability.
 - Vite for fast development and optimized builds.
 
+## Demo
+[Faith Verse](https://faith.kopasu.com)
+
 ## Getting Started
 
 ### Prerequisites
